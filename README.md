@@ -1,7 +1,6 @@
 
 # Read Book
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/read-books-react/deploys)
 
 Read Book is a web application that allows users to browse and read a collection of books online.
 
